@@ -1,7 +1,7 @@
-PatchesLink jQuery Plugin
+LinkIt jQuery Plugin
 =====
 
-**PatchesLink** is a simple jQuery plugin to attach links to elements
+**LinkIt** is a simple jQuery plugin to attach links to elements
 
 ## Version ##
 0.1.0
